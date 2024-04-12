@@ -29,10 +29,6 @@ nav h4 {
   color: aliceblue;
   font-size: 30px;
 }
-nav li a{
-  text-decoration: none;
-
-}
 nav li{
   list-style: none;
 }
